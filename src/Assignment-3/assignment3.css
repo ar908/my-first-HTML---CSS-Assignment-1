@@ -5,3 +5,32 @@
 width: 100%;
 height: 100%;
 }
+
+.content-inline ,.content-block {
+    width: 100%;
+    height: 300px;
+    background-color: #f2f2f2;
+    margin-top: 10px;
+}
+.top-left,#render-wiki {
+    height:100%;
+    width:49%;
+    display:inline-block;
+
+}
+.top-left{
+    text-align:center;
+    
+}
+.top{
+    text-align: center;
+    width:100%;
+
+}
+.content-block iframe {
+    width:100%;
+}
+button{
+    background-color:black;
+    color: red;
+}
